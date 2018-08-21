@@ -1,0 +1,3 @@
+[submodule "testsuite/imported/nanorv32"]
+	path = testsuite/imported/nanorv32
+	url = https://github.com/rbarzic/nanorv32.git
